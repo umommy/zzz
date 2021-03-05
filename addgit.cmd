@@ -1,4 +1,4 @@
-rem фры№эхщ°шх юсэютыхэш 
+rem дальнейшие обновления
 git add .
-git commit -m "фюяшёры"
+git commit -m "дописал"
 git push -u zzz main
