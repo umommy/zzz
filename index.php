@@ -12,7 +12,9 @@
 к
 
 к
-sd
+sdgit status
+git remote
+
 1
 asd
 s
