@@ -1,4 +1,4 @@
 rem дальнейшие обновления
 git add .
-git commit -m "my commit"
+git commit -m "дописал"
 git push -u zzz main
