@@ -1,11 +1,13 @@
-# Other files and folders
-.settings/
 config.py
+.settings/
 __pycache__/
 work/
+sql/
+foto/
+1c/
 *.txt
 *.pyc
-
-
-# Executables
+*.zip
+*.bak
+*.exe
 *.cmd
