@@ -20,14 +20,18 @@
 к
 
 к
-sdgit status
-git remote
+sdgit statuskl
+
+
 55555555555555555555555555555555555555555555555555
 1
 asd
 s
 sda
 a
+
+
+
 1
 1
 1
