@@ -28,10 +28,10 @@ sdgit statuskl
 asd
 s
 sda
-a
+adffffffffff
 
 
-
+dsfsdfss
 1
 1
 1
